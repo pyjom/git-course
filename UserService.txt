@@ -1,2 +1,4 @@
 Get the user data
 Password should be the same
+Security Verification
+Agree or Not Agree
